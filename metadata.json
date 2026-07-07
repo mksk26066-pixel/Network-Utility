@@ -1,0 +1,6 @@
+{
+  "name": "Network Utility",
+  "description": "Premium Network Utility with hidden Admin Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
